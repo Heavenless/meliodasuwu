@@ -38,4 +38,4 @@ bot.on('guildMemberAdd', member => {
 });
 
           
-bot.login(proccess.env.BOT_TOKEN);
+bot.login(TOKEN);
